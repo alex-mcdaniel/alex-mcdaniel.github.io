@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Research Fellow, Department of Physics and Astronomy, Clemson University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Fellow at in the Physics and Astronomy department at Clemson University with extensive experience in data analysis and coding. My list of scientific publications can be found through [NASA ADS Abstract service](https://ui.adsabs.harvard.edu/search/q=docs(ad954e1543ba0039fc59b908b6149892)&sort=date%20desc%2C%20bibcode%20desc&p_=0). I am now looking to transition into the data science or quantitative analysis fields where I can apply my skills and knowledge to solve challenging problems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my academic career, I have developed a strong foundation in physics, mathematics, and statistics. I have also gained expertise in a variety of programming languages such as Python and C++, as well as data analysis tools including Pandas, NumPy, and SciPy. My research has focused on analyzing complex data sets to understand the properties of dark matter, galaxies, and other astrophysical phenomena.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a researcher, I have honed my ability to work both independently as well as part of large international collaborations. I have a demonstrated ability to communicate complex ideas in a clear and concise manner. I have also developed a passion for learning new skills and techniques, and I am always eager to explore new areas of knowledge.
+
+Now, I am looking to apply my skills and experience to a new challenge in the data science or quantitative analysis fields. I am excited to join a team where I can collaborate with colleagues to develop innovative solutions to complex problems, and where I can continue to learn and grow as a professional.
