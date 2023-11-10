@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Research Fellow, Department of Physics and Astronomy, Clemson University
 
