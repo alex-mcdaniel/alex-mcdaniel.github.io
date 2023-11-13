@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 nav: true
-nav_order: 2
+nav_order: 7
 dropdown: true
 children:
     - title: publications
