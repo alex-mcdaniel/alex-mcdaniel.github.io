@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here is a list of some of the projects I have worked on. Some as part of research as a postdoc/grad student and others just for the experience and fun!
 nav: true
 nav_order: 1
 display_categories: [work, fun]
