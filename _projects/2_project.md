@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Style Transfer in PyTorch
+description: A style transfer application built in PyTorch (ML/AI, Nearal Nets, Transfer Learning, Python PyTorch)
 img: assets/img/styleTransfer_creek.png
 importance: 2
 category: work

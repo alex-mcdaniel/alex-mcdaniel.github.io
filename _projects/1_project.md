@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: US National Parks Visitor Data
+description: Visualization of National Park Visitor Data (Python, Tableau)
 img: assets/img/nps_social_image_02.jpg
 importance: 1
 category: work
