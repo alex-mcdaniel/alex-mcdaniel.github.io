@@ -27,7 +27,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Image of the Tableau dashboard visualizing visitor data to the US National Parks. For the interactive dashboard, visit the [Tableau Public Page](https://public.tableau.com/app/profile/alex.mcdaniel/viz/NationalParksVisitation_17001480862160/VisitorstotheNationalParks?publish=yes)
+    Image of the Tableau dashboard visualizing visitor data to the US National Parks. For the interactive dashboard, visit the <a href="https://public.tableau.com/app/profile/alex.mcdaniel/viz/NationalParksVisitation_17001480862160/VisitorstotheNationalParks?publish=yes">Tableau Public Page</a>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
