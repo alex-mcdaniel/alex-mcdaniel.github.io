@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Style Transfer in PyTorch
-description: A style transfer application built in PyTorch (ML/AI, Nearal Nets, Transfer Learning, Python PyTorch)
+description: A style transfer application built in PyTorch (ML/AI, Neural Networks, Transfer Learning, Python, PyTorch)
 img: assets/img/styleTransfer_creek.png
 importance: 2
-category: work
-giscus_comments: true
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
