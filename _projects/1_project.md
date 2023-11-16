@@ -4,7 +4,7 @@ title: US National Parks Visitor Data
 description: Visualization of National Park Visitor Data (Python, Tableau)
 img: assets/img/nps_social_image_02.jpg
 importance: 1
-category: work
+category: fun
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
@@ -27,7 +27,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Image of the Tbaleau dashborad visualization visitor data to the US National Parks. For the interactive dashboard, visit the [Tableau Public Page](https://public.tableau.com/app/profile/alex.mcdaniel/viz/NationalParksVisitation_17001480862160/VisitorstotheNationalParks?publish=yes)
+    Image of the Tableau dashboard visualizing visitor data to the US National Parks. For the interactive dashboard, visit the [Tableau Public Page](https://public.tableau.com/app/profile/alex.mcdaniel/viz/NationalParksVisitation_17001480862160/VisitorstotheNationalParks?publish=yes)
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
