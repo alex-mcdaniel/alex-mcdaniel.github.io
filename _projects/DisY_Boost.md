@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DisYBoost - Physician Recommendation Predictions
+title: "DisYBoost: Physician Recommendation Predictions"
 description: Classification model built using XGBoost (ML/AI, Decision Trees, XGBoost, Python)
 img: assets/img/DisYBoost.png
 importance: 2
