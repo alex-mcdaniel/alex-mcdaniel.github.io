@@ -11,7 +11,7 @@ category: fun
    </header>
 
 
-This page will include some of the projects I worked on as part of the GIS Fundamentals Workshop Series I participated in a Clemson UNiversity. This workshop offered >30 hoiurs of hands on training with GIS topics and ArcGISPro.
+This page will include some of the projects I worked on as part of the <a href="https://www.clemsongis.org/engineering-and-environmental-gis-s">GIS Fundamentals Workshop Series </a> I participated in a Clemson University. This workshop offered >30 hours of hands on training using ArcGISPro to explore various GIS topics.
 
 
 <div class="row">
