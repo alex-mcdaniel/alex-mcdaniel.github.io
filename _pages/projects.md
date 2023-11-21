@@ -8,6 +8,13 @@ nav_order: 1
 display_categories: [fun,work]
 horizontal: false
 ---
+<h3> GitHub </h3>
+Github repo can be found here <a href="https://github.com/alex-mcdaniel/">(github)</a>
+
+<h3> Tableau </h3>
+Public page for Tableau projects can be found here <a href="https://public.tableau.com/app/profile/alex.mcdaniel">(Tableau Public Page)</a>
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
