@@ -29,5 +29,5 @@ Below is a gif showing some of the iterative steps of the style transfer.
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Gif showing some stages of the image transfer application.
 </div>
