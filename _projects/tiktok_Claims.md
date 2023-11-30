@@ -17,6 +17,11 @@ TikTok is working on the development of a predictive model that can determine wh
 
 In other words, the goal of this project is to develop a predictive model that can determine whether a video contains a claim or offers an opinion. 
 
- The notebook for this project can be found as a<a href="TikTok_Claim_Classification.html">static wbepage here</a>. This project was completed as part of the Google Advanced Data Analytics Course.
+ The notebook for this project can be found as a <a href="TikTok_Claim_Classification.html">static wbepage here</a>. This project was completed as part of the Google Advanced Data Analytics Course.
 
 
+
+<article class="post-content CV clearfix">
+        <embed src="TikTok_Claim_Classification.html" width="100%" height="800" type="application/pdf" />
+
+</article>
