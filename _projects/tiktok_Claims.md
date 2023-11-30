@@ -20,7 +20,9 @@ In other words, the goal of this project is to develop a predictive model that c
  The notebook for this project can be found as a <a href="TikTok_Claim_Classification.html">static wbepage here</a>. The related Tableau Story can be found <a href="https://public.tableau.com/app/profile/alex.mcdaniel/viz/TikTokClaimsClassificationbasicEDA/Story1">here</a>. This project was completed as part of the <a href="https://www.coursera.org/professional-certificates/google-advanced-data-analytics">Google Advanced Data Analytics Professional Certificate</a>.
 
 
-<h3>Summary Slides</h3>
+
+
+<h2>Summary Slides</h2>
 
 <article class="post-content CV clearfix">
         <embed src="TikTokClaimsClassificationResults.pdf" width="75%" height="800" type="application/pdf" />
