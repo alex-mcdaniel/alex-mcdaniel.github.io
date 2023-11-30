@@ -3,7 +3,7 @@ layout: page
 title: US National Parks Visitor Data - Tableau
 description: Visualization of National Park Visitor Data (Python, Tableau)
 img: assets/img/nps_social_image_02.jpg
-importance: 1
+importance: 4
 category: fun
 related_publications: einstein1956investigations, einstein1950meaning
 ---

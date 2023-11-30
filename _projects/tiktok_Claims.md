@@ -3,7 +3,7 @@ layout: page
 title: TikTok Claims Classification
 description: Classification model to predict whethe a TikTok video expresses a claim or an opinion (ML/AI, Classification, Python, XGBoost, Random forest)
 img: assets/img/tiktok.png
-importance: 2
+importance: 3
 category: fun
 ---
 
@@ -17,7 +17,7 @@ TikTok is working on the development of a predictive model that can determine wh
 
 In other words, the goal of this project is to develop a predictive model that can determine whether a video contains a claim or offers an opinion. 
 
- The notebook for this project can be found as a <a href="TikTok_Claim_Classification.html">static wbepage here</a>. The related Tableau Story can be found <a href="https://public.tableau.com/app/profile/alex.mcdaniel/viz/TikTokClaimsClassificationbasicEDA/Story1">here</a>. This project was completed as part of the <a href="https://www.coursera.org/professional-certificates/google-advanced-data-analytics">Google Advanced Data Analytics Professional Certificate</a>.
+ The notebook for this project can be found as a <a href="TikTok_Claim_Classification.html">static webpage here</a>. The related Tableau Story can be found <a href="https://public.tableau.com/app/profile/alex.mcdaniel/viz/TikTokClaimsClassificationbasicEDA/Story1">here</a>. This project was completed as part of the <a href="https://www.coursera.org/professional-certificates/google-advanced-data-analytics">Google Advanced Data Analytics Professional Certificate</a>.
 
 
 
