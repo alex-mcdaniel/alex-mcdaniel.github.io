@@ -7,6 +7,14 @@ importance: 2
 category: fun
 ---
 
+
+
+<article class="post-content CV clearfix">
+        <embed src="assets/pdf/DisYBoost.pdf" width="100%" height="800" type="application/pdf" />
+
+</article>
+
+
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/DisY_Boost.ipynb" | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/DisY_Boost.ipynb %}{% endcapture %}

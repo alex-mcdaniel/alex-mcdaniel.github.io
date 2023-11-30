@@ -21,10 +21,7 @@ In this project I use a pretrained convolutional neural network to create a styl
     Content image (left) is a phtoo of one of the many waterfalls in the Clemson, SC area. The style image (middle) is Edvard Munch's "The Scream", and on the right we have the final composite image.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+Below is a gif showing some of the iterative steps of the style transfer.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
