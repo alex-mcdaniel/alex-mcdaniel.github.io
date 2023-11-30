@@ -10,7 +10,7 @@ category: fun
 
 
 <article class="post-content CV clearfix">
-        <embed src="../assets/pdf/DisYBoost.pdf" width="100%" height="800" type="application/pdf" />
+        <embed src="DisYBoost.pdf" width="100%" height="800" type="application/pdf" />
 
 </article>
 
