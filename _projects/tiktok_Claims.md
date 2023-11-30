@@ -17,11 +17,28 @@ TikTok is working on the development of a predictive model that can determine wh
 
 In other words, the goal of this project is to develop a predictive model that can determine whether a video contains a claim or offers an opinion. 
 
- The notebook for this project can be found as a <a href="TikTok_Claim_Classification.html">static wbepage here</a>. This project was completed as part of the Google Advanced Data Analytics Course.
+ The notebook for this project can be found as a <a href="TikTok_Claim_Classification.html">static wbepage here</a>. The related Tableau Story can be found <a href="https://public.tableau.com/app/profile/alex.mcdaniel/viz/TikTokClaimsClassificationbasicEDA/Story1">here</a>. This project was completed as part of the <a href="https://www.coursera.org/professional-certificates/google-advanced-data-analytics">Google Advanced Data Analytics Professional Certificate</a>.
 
 
+<h3>Summary Slides</h3>
 
 <article class="post-content CV clearfix">
-        <embed src="TikTok_Claim_Classification.html" width="100%" height="800" type="application/pdf" />
+        <embed src="TikTokClaimsClassificationResults.pdf" width="100%" height="800" type="application/pdf" />
 
 </article>
+
+
+
+<h1>
+    Jupyter Notebook
+</h1>
+
+{::nomarkdown}
+{% assign jupyter_path = "assets/jupyter/DisY_Boost.ipynb" | relative_url %}
+{% capture notebook_exists %}{% file_exists assets/jupyter/DisY_Boost.ipynb %}{% endcapture %}
+{% if notebook_exists == "true" %}
+    {% jupyter_notebook jupyter_path %}
+{% else %}
+    <p>Sorry, the notebook you are looking for does not exist.</p>
+{% endif %}
+{:/nomarkdown}
