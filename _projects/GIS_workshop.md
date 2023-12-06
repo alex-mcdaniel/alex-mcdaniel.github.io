@@ -12,7 +12,9 @@ This page will eventually include some of the projects I worked on as part of th
 A few of the project are hosted through ArcGIS online:
 
 <a href="https://clemson.maps.arcgis.com/apps/mapviewer/index.html?webmap=81ec82c5541c4df9b6c3c75b9e8c0d3c">U.S. High Tide Flooding Probability Scenarios<a>
+
 <a href="https://storymaps.arcgis.com/stories/63a1228dbf1848feaff636c38a873bac">Enivisioning Risk: Understanding the Effects of Climate Change Story Map<a>
+    
 <a href="https://clemson.maps.arcgis.com/apps/mapviewer/index.html?webmap=4c1f0d1f6ec644c183bb9cf025087dab">Risk index by census tract in South Carolina<a>    
 
 Otherwise, you can find below the certificate awarded by the course.
