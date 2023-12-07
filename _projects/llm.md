@@ -1,10 +1,10 @@
 ---
 layout: page
 title: LLMs in PyTorch
-description: Project constructing an LLM "from scratch" in PyTorch, Generating scientific abstracts
-img: assets/img/coming_soon.jpg
+description: Constructing an LLM "from scratch" in PyTorch that can generating astrophysics abstracts (Python, PyTorch, LLMs, NLP, Generative AI)
+img: assets/img/astroLLM.jpg
 importance: 50
 category: fun
 ---
 
-Coming Soon!
+Content Coming Soon!
