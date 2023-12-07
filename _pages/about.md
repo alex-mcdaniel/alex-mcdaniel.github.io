@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Research Fellow, Department of Physics and Astronomy, Clemson University
+subtitle: Astrophysicist | Data Enthusiast | Scientist
 
 profile:
   align: right
