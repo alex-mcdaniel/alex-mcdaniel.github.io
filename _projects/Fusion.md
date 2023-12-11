@@ -37,7 +37,7 @@ As part of the project, my artist collaborator and I were interviewed by local n
         {% include figure.html path="../../assets/img/Fusion/alex_randie.jpg" title="At the exhibit" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="../../assets/img/Fusion/discs_close.png" title="Discs" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="disc_close.png" title="Discs" class="img-fluid rounded z-depth-1" %}
     </div> 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="../../assets/img/Fusion/shop.png" title="In the shop" class="img-fluid rounded z-depth-1" %}
