@@ -37,10 +37,10 @@ As part of the project, my artist collaborator and I were interviewed by local n
         {% include figure.html path="alex_randie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="disc.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="alex_randie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div> 
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="shop.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="alex_randie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
