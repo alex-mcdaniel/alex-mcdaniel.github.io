@@ -31,18 +31,3 @@ As part of the project, my artist collaborator and I were interviewed by local n
 
 
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="alex_randie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="alex_randie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div> 
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="alex_randie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    On the left, Randie and I at her installation at the Fusion of Art & Physics EXhibit atthe R. Blitzer Gallery. Middle, some close ups of the discs created for the art show. Right, Randie and I at work in here art studio.
-</div>
