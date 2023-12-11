@@ -17,7 +17,7 @@ While a PhD student at UC Santa Cruz back in 2019, I participated in a collabora
 </blockquote>
 
 
-I was paired with the wonderfully talented kiln-fired glass artist Randie Silverstein (check out her site at ). 
+I was paired with the wonderfully talented kiln-fired glass artist Randie Silverstein (check out her site at <a href="https://www.randiesilverstein.com/">https://www.randiesilverstein.com/</a>). 
 
 
 More information on the project (and great art!) can be found at the project website: <a href="https://slbailey109.wixsite.com/fusion/about">The Fusion of Art & Physics</a>
