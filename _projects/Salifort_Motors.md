@@ -30,7 +30,7 @@ As a data specialist working for Salifort Motors, you have received the results 
 <h2>Summary Slides</h2>
 
 <article class="post-content CV clearfix">
-        <embed src="../../assets/pdf/Salifort_Motors.pdf" width="75%" height="800" type="application/pdf" />
+        <embed src="../../assests/pdf/Salifort_Motors.pdf" width="75%" height="800" type="application/pdf" />
 
 </article>
 
@@ -42,7 +42,7 @@ As a data specialist working for Salifort Motors, you have received the results 
 
 {::nomarkdown}
 {% assign jupyter_path = "../../assets/jupyter/Salifort_Motors.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists ../../assets/jupyter/Salifort_Motors.ipynb %}{% endcapture %}
+{% capture notebook_exists %}{% file_exists assets/jupyter/Salifort_Motors.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
     {% jupyter_notebook jupyter_path %}
 {% else %}
