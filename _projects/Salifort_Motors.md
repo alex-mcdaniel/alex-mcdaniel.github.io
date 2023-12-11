@@ -30,7 +30,7 @@ As a data specialist working for Salifort Motors, you have received the results 
 <h2>Summary Slides</h2>
 
 <article class="post-content CV clearfix">
-        <embed src="../../assests/pdf/Salifort_Motors.pdf" width="75%" height="800" type="application/pdf" />
+        <embed src="../../assets/pdf/Salifort_Motors.pdf" width="75%" height="800" type="application/pdf" />
 
 </article>
 
