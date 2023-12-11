@@ -22,11 +22,11 @@ I was paired with the wonderfully talented kiln-fired glass artists Randie Silve
 
 More information on the project (and great art!) can be found at the project website: <a href="https://slbailey109.wixsite.com/fusion/about">The Fusion of Art & Physics</a>
 
-
-
-As part of the project, my artist collaborator and I were interviewed on sveral loacl news outlets, include newspapers and local radio stations. For a few of accessibl examples:
+As part of the project, my artist collaborator and I were interviewed by local newspapers and radio stations. For a few of accessible examples:
 
 <a href="https://www.goodtimes.sc/fusion-art-physics/">Read more in The Good Times: Santa Cruz's weekly entertainment guide</a>
+
+
 <a href="https://www.santacruzsentinel.com/2019/02/27/art-seen-fusion-of-art-physics-exhibit-opens-march-1/"> Santa Cruz Sentinel Article</a>
 
 
@@ -34,13 +34,13 @@ As part of the project, my artist collaborator and I were interviewed on sveral 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="Fusion/alex_randie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="alex_randie.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="Fusion/disc.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="disc.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="Fusion/shop.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="shop.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
