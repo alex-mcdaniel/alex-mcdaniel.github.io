@@ -2,7 +2,7 @@
 layout: page
 title: Fusion of Art and Physics
 description: Artistic Collaboration between UC Santa Cruz Physicists and Local Artists
-img: assets/img/discs.png
+img: assets/img/Fusion/disc_close.png
 importance: 20
 category: fun
 ---
@@ -37,12 +37,12 @@ As part of the project, my artist collaborator and I were interviewed by local n
         {% include figure.html path="../../assets/img/Fusion/alex_randie.jpg" title="At the exhibit" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="disc_close.png" title="Discs" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="../../assets/img/discs.png" title="Discs" class="img-fluid rounded z-depth-1" %}
     </div> 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="../../assets/img/Fusion/shop.png" title="In the shop" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left, Randie and I at her installation at the Fusion of Art & Physics Exhibit atthe R. Blitzer Gallery. Middle, some close ups of the discs created for the art show. Right, Randie and I at work in here art studio.
+    On the left, Randie and I at her installation at the Fusion of Art & Physics Exhibit at the R. Blitzer Gallery. Middle, view of the disc installation. Right, Randie and I at work in here art studio.
 </div>
