@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Astrophysicist | Data Enthusiast | Scientist
+subtitle: Data Science | Machine Learning | Astrophysics
 
 profile:
   align: right
