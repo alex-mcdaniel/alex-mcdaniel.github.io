@@ -3,7 +3,7 @@ layout: page
 title: Fusion of Art and Physics
 description: Artistic Collaboration between UC Santa Cruz Physicists and Local Artists
 img: assets/img/Fusion/disc_close.png
-importance: 4
+importance: 10
 category: fun
 ---
 

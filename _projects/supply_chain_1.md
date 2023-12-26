@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Supply Chain Analysis & Optimization - pt 1"
-description: Analysis of supply chain data (Supply chains, optimization, Python, scipy PuLP)
+description: Analysis of supply chain data (Supply chains, optimization, linear programming, Python, scipy PuLP)
 img: assets/img/supplychain/supplyChain.png
 importance: 2
 category: fun
@@ -14,7 +14,7 @@ This was a very simplified analysis that I hope to follow up with a more complic
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/supplychain/warehouse_assignment.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/supplychain/warehouse_assignment.png" title="warehouse assignments" class="img-fluid rounded z-depth-1" max-width="500"%}
     </div>
 </div>
 <div class="caption">

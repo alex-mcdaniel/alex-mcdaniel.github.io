@@ -3,7 +3,7 @@ layout: page
 title: TikTok Claims Classification
 description: Classification model to predict whether a TikTok video expresses a claim or an opinion (ML/AI, Classification, Python, XGBoost, Random forest)
 img: assets/img/tiktok.png
-importance: 3
+importance: 4
 category: fun
 ---
 
