@@ -14,7 +14,7 @@ This was a very simplified analysis that I hope to follow up with a more complic
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/supplychain/warehouse_assignment.png" title="warehouse assignments" class="img-fluid rounded z-depth-1" max-width="500"%}
+        {% include figure.html path="assets/img/supplychain/warehouse_assignment.png" title="warehouse assignments" class="img-fluid rounded z-depth-1" max-width="300"%}
     </div>
 </div>
 <div class="caption">
